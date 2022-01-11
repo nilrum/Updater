@@ -3,4 +3,4 @@ project(Updater)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Updater main.cpp)
+add_executable(VersionControl main.cpp)
